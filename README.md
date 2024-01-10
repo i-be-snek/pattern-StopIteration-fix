@@ -1,3 +1,12 @@
+⚠️ Note: this fork was made to [fix the generator error caused by raising the StopIteration exception in the wrong place _as described in this here issue_](https://github.com/piskvorky/gensim/issues/2438#issuecomment-644753776). The original Pattern repo seems to be unmaintained. 
+
+To install:
+
+```shell
+# using https
+pip install git+https://github.com/i-be-snek/pattern-StopIteration-fix.git
+```
+
 Pattern
 =======
 
